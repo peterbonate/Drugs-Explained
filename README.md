@@ -12,7 +12,7 @@ Drugs Explained is an open-source book that clearly explains the drug developmen
 
   <img src="https://github.com/peterbonate/Drugs-Explained/blob/main/AST180412_PB02f_5x7_cr.png" width=25% height=25%>
 
-## Screenshots
+## Front Cover
 
 ![Front Cover Screenshot](https://github.com/peterbonate/Drugs-Explained/blob/main/front_cover.png)
 
