@@ -9,23 +9,7 @@ We rely on medications to treat a wide range of illnesses, from the common cold 
 Drugs Explained is an open-source book that clearly explains the drug development process and how medications interact with the human body, offering valuable insights into the information in a drug’s Package Insert.
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+    
 
 ## Author
 
