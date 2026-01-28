@@ -15,7 +15,7 @@ Drugs Explained is an open-source book that clearly explains the drug developmen
 
 - [@PeterBonate](https://www.github.com/peterbonate)
 
-  <img align="left" src="https://github.com/peterbonate/Drugs-Explained/blob/main/AST180412_PB02f_5x7_cr.png" width=25% height=25%>
+  <img align="left" src="https://github.com/peterbonate/Drugs-Explained/blob/main/AST180412_PB02f_5x7_cr.png" width=35% height=35%>
 
 I have 30 years of experience in the pharmaceutical industry, and have contributed to the development of many drugs.  I am a Fellow of the American Association of Pharmaceutical Sciences, American College of Clinical Pharmacology, and the International Society of Pharmacometrics. I am also Editor-in-Chief of The Journal of Pharmacokinetics and Pharmacodynamics and have published more than 80 papers in pharmacokinetics, clinical pharmacology, and drug development.
 
