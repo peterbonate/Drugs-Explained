@@ -3,9 +3,12 @@
 
 We rely on medications to treat a wide range of illnesses, from the common cold to serious conditions like cancer. Despite how frequently drugs are used in modern medicine, many people have little understanding of how they are developed or how they work in the body. 
 
-Drugs Explained is an open-source book that plainly tells the drug development process and how medications interact with the human body, offering valuable insights into the information found in a drug’s Package Insert.
+Drugs Explained is an open-source book that clearly explains the drug development process and how medications interact with the human body, offering valuable insights into the information in a drug’s Package Insert.
 
 
+## Authors
+
+- [@PeterBonate](https://www.github.com/peterbonate)
 
 ## Screenshots
 
@@ -16,27 +19,6 @@ Drugs Explained is an open-source book that plainly tells the drug development p
 I have 30 years of experience in the pharmaceutical industry, and have contributed to the development of many drugs.  I am a Fellow of the American Association of Pharmaceutical Sciences, American College of Clinical Pharmacology, and the International Society of Pharmacometrics. I am also Editor-in-Chief of The Journal of Pharmacokinetics and Pharmacodynamics and have published more than 80 papers in pharmacokinetics, clinical pharmacology, and drug development.
 
 Check out my website @peterbonate.com
-
-
-## Authors
-
-- [@PeterBonate](https://www.github.com/peterbonate)
-
-
-## License
-
-[CC-BY-NC-ND](https://creativecommons.org/share-your-work/cclicenses/)
-
-
-## Copyright
-
-2026
-
-## Acknowledgements
-
-I am deeply grateful to the many colleagues and reviewers who generously gave their time to read drafts of this book prior to publication. Their thoughtful comments, critical insights, and careful attention to detail greatly strengthened the clarity, accuracy, and overall quality of the final manuscript. Any remaining errors or omissions are, of course, entirely my own.
-
-If YOU see any errors, please reach out to me at peter@peterbonate.com
 
 
 ## Preface to Book
@@ -57,5 +39,22 @@ I want to thank all those who contributed to this book. Many researchers graciou
 I would also like to thank the many reviewers of the book who helped me make it more interesting and relevant. Thank you to my team: Souvik Bhattacharya, Mary Choules, Alexis Hoerter, Hu Huang, Jace Nielsen, Pouye Sedighian, Vijay Siripuram, Junko Toyoshima, and Jared Weddell. You were all a great help in making this more cohesive. I didn’t want to write the regulatory chapter, but I listened to your advice, and you were right; the book needed it. I want to thank Salaheldin Hamed for his review of that material. His comments made it a lot better overall. I also want to thank my friend, Christiane Collins, who never saw a contraction she liked. Thank you very much for reading this book and giving me your thoughts.
 
 Peter Bonate, March 2026
+
+
+
+## License
+
+[CC-BY-NC-ND](https://creativecommons.org/share-your-work/cclicenses/)
+
+
+## Copyright
+
+2026
+
+## Acknowledgements
+
+I am deeply grateful to the many colleagues and reviewers who generously gave their time to read drafts of this book prior to publication. Their thoughtful comments, critical insights, and careful attention to detail greatly strengthened the clarity, accuracy, and overall quality of the final manuscript. Any remaining errors or omissions are, of course, entirely my own.
+
+If YOU see any errors, please reach out to me at peter@peterbonate.com
 
 
