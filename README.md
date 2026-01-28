@@ -11,7 +11,7 @@ Drugs Explained is an open-source book that clearly explains the drug developmen
 - [@PeterBonate](https://www.github.com/peterbonate)
 
   
-![Me!](https://github.com/peterbonate/Drugs-Explained/blob/main/AST180412_PB02f_5x7_cr.png, width="200")
+![Me!] <img src="[https://github.com/peterbonate/Drugs-Explained/blob/main/AST180412_PB02f_5x7_cr.png]" width=50% height=50%>
 
 ## Screenshots
 
