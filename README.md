@@ -2,19 +2,19 @@
 # Drugs Explained
 
 
-<img align="left" src="https://github.com/peterbonate/Drugs-Explained/blob/main/front_cover.png" width=50%, height=50%>
+<img src="https://github.com/peterbonate/Drugs-Explained/blob/main/front_cover.png" width=50%, height=50%>
 
 We rely on medications to treat a wide range of illnesses, from the common cold to serious conditions like cancer. Despite how frequently drugs are used in modern medicine, many people have little understanding of how they are developed or how they work in the body. 
 
 Drugs Explained is an open-source book that clearly explains the drug development process and how medications interact with the human body, offering valuable insights into the information in a drug’s Package Insert.
 
-<br>      
+  
 
 ## Author
 
 <img align="left" src="https://github.com/peterbonate/Drugs-Explained/blob/main/AST180412_PB02f_5x7_cr.png" width=30% height=30%>
 
-I have 30 years of experience in the pharmaceutical industry, and have contributed to the development of many drugs.  I am a Fellow of the American Association of Pharmaceutical Sciences, American College of Clinical Pharmacology, and the International Society of Pharmacometrics. I am also Editor-in-Chief of The Journal of Pharmacokinetics and Pharmacodynamics and have published more than 80 papers in pharmacokinetics, clinical pharmacology, and drug development.
+I have 30 years of experience in the pharmaceutical industry and have contributed to the development of many drugs.  I am a Fellow of the American Association of Pharmaceutical Sciences, American College of Clinical Pharmacology, and the International Society of Pharmacometrics. I am also Editor-in-Chief of The Journal of Pharmacokinetics and Pharmacodynamics and have published more than 80 papers in pharmacokinetics, clinical pharmacology, and drug development.
 
 
 
@@ -30,7 +30,7 @@ I also wanted to try something different with this book: make it a living docume
 
 I’ve got lots of ideas for the future updates: new stories, reader-requested topics, and new chapters.  I want to add a chapter on the sales and marketing of pharmaceuticals, but it will require significant time since I am not an expert in this area. Look for that in the future. I also want to write material on food regulation (Drugs and Food Explained?) and medical devices, perhaps even cosmetics. 
 
-I am trying to figure out how to best disseminate the book. I will be making it available (eventually) on Github (https://github.com/peterbonate/Drugs-Explained) and Zenodo. I will also be working on a personal website at peterbonate.com. If there is something you want to see, don’t hesitate to write me at peter@peterbonate.com.
+I am trying to figure out the best way to disseminate the book. I will be making it available (eventually) on GitHub (https://github.com/peterbonate/Drugs-Explained) and Zenodo. I will also be working on a personal website at peterbonate.com. If there is something you want to see, don’t hesitate to write me at peter@peterbonate.com.
 
 I want to thank all those who contributed to this book. Many researchers graciously allowed me to reprint their figures. What would I have done without Wikipedia and Wikimedia Creative Commons for many of the images in the book? Thank you. 
 
