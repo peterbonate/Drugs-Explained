@@ -4,7 +4,7 @@
 
 ## Front Cover
 
-<img align="left" src=https://github.com/peterbonate/Drugs-Explained/blob/main/front_cover.png">
+<img align="left" src="https://github.com/peterbonate/Drugs-Explained/blob/main/front_cover.png">
 
 We rely on medications to treat a wide range of illnesses, from the common cold to serious conditions like cancer. Despite how frequently drugs are used in modern medicine, many people have little understanding of how they are developed or how they work in the body. 
 
