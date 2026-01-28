@@ -11,6 +11,22 @@ Drugs Explained is an open-source book that clearly explains the drug developmen
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## Author
 
 - [@PeterBonate](https://www.github.com/peterbonate)
