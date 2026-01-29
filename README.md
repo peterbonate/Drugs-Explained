@@ -8,17 +8,17 @@ We rely on medications to treat a wide range of illnesses, from the common cold 
 
 Drugs Explained is an open-source book that clearly explains the drug development process and how medications interact with the human body, offering valuable insights into the information in a drug’s Package Insert. \\
 
-<br clear="left"/>
 
 
-## Author
 
-<img align="left" src="https://github.com/peterbonate/Drugs-Explained/blob/main/AST180412_PB02f_5x7_cr.png" width=30% height=30%>
+### Author
+
+<img align="left" src="https://github.com/peterbonate/Drugs-Explained/blob/main/AST180412_PB02f_5x7_cr.png" width=20% height=20%>
 
 I have 30 years of experience in the pharmaceutical industry and have contributed to the development of many drugs.  I am a Fellow of the American Association of Pharmaceutical Sciences, American College of Clinical Pharmacology, and the International Society of Pharmacometrics. I am also Editor-in-Chief of The Journal of Pharmacokinetics and Pharmacodynamics and have published more than 80 papers in pharmacokinetics, clinical pharmacology, and drug development.
 
 
-
+<br clear="left"/>
 
 ## Preface to Book
 I have worked in the pharmaceutical industry most of my life, on numerous products that reached the market and many more that did not. Over the years, I have learned how drugs are developed. And while I may have learned the process, I have noticed that many people working at pharmaceutical companies do not know what we actually do. They may say we develop and make drugs. This is true, but it trivializes the process. What does it mean to develop a drug? What are the activities that are necessary to bring a drug to market? There are whole groups of individuals in companies who don’t know. These may include the administrative staff, the legal team, the contracts team, the chemists, and the list goes on. Even among scientists employed by a company, while they may be experts in their particular area, they may not be familiar with the entire drug development process.
