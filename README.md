@@ -4,9 +4,11 @@
 
 <img align="left" src="https://github.com/peterbonate/Drugs-Explained/blob/main/front_cover.png" width=50%, height=50%>
 
-We rely on medications to treat a wide range of illnesses, from the common cold to serious conditions like cancer. Despite how frequently drugs are used in modern medicine, many people have little understanding of how they are developed or how they work in the body. 
+We rely on medications to treat a wide range of illnesses, from the common cold to serious conditions like cancer. Despite how frequently drugs are used in modern medicine, many people have little understanding of how they are developed or how they work in the body. Drugs Explained is an open-source book that takes the mystery out of medications. Learn how drugs are developed, how they work inside your body, and what all that fine print on medication labels really means. Finally understand the science behind your medicine cabinet!
 
-Drugs Explained is an open-source book that clearly explains the drug development process and how medications interact with the human body, offering valuable insights into the information in a drug’s Package Insert.
+
+<img width="7450" height="74" alt="image" src="https://github.com/user-attachments/assets/b48d7f4c-505c-472a-b83e-97a9d9836e3a" />
+
 
 
 
